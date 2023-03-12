@@ -1,0 +1,6 @@
+train:
+  name: Train
+  description: Train the sensor on its configured input and label entities
+  target:
+    entity:
+      domain: sensor

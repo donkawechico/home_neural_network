@@ -1,0 +1,13 @@
+{
+  "domain": "nn_service",
+  "name": "NN Service",
+  "documentation": "https://developers.home-assistant.io/docs/dev_101_services",
+  "iot_class": "local_polling",
+  "version": "0.1.0",
+  "requirements": [
+    "torch==1.13.1",
+    "numpy==1.23.2",
+    "scikit-learn==1.2.1",
+    "pandas==1.4.3"
+  ]
+}
